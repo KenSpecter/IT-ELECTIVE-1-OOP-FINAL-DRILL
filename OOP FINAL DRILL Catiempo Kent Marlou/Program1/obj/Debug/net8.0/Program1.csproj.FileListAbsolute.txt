@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\bin\Debug\net8.0\Program1.exe
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\bin\Debug\net8.0\Program1.deps.json
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\bin\Debug\net8.0\Program1.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\bin\Debug\net8.0\Program1.dll
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\bin\Debug\net8.0\Program1.pdb
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\Program1.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\Program1.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\Program1.dll
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\refint\Program1.dll
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\Program1.pdb
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\Program1.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\OOP FINAL DRILL Catiempo Kent Marlou\Program1\obj\Debug\net8.0\ref\Program1.dll
